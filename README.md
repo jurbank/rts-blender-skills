@@ -21,7 +21,7 @@ claude plugin marketplace add jurbank/rts-blender-skills
 claude plugin install blender-rts-structures@rts-blender
 ```
 
-If the repository is private, your GitHub account needs access to it first. To install from a downloaded copy instead, pass its folder: `claude plugin marketplace add /path/to/rts-blender-skills`.
+To install from a downloaded copy instead, pass its folder: `claude plugin marketplace add /path/to/rts-blender-skills`.
 
 ## First use
 
