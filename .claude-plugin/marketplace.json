@@ -1,0 +1,15 @@
+{
+  "name": "rts-blender",
+  "owner": {
+    "name": "John Urbank"
+  },
+  "description": "Blender skills for RTS game art.",
+  "plugins": [
+    {
+      "name": "blender-rts-structures",
+      "description": "Build RTS buildings in Blender to a written art direction, export game-ready GLBs, and review them from the game camera.",
+      "source": "./plugins/blender-rts-structures",
+      "category": "development"
+    }
+  ]
+}

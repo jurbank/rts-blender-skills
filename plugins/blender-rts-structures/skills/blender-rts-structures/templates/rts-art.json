@@ -1,0 +1,49 @@
+{
+  "lightUnits": "unity",
+  "paths": {
+    "docs": "Docs/Art",
+    "library": "Art/Blender/library",
+    "materials": "Art/Blender/materials",
+    "gallery": "Art/Blender/gallery.blend",
+    "staging": "Art/Staging/models/structures",
+    "renders": "Art/Staging/renders/structures",
+    "runtime": "Assets/Art/Structures"
+  },
+  "export": {
+    "turn": 0
+  },
+  "camera": {
+    "fieldOfView": 40,
+    "pitch": 55,
+    "distance": 30,
+    "minDistance": 8
+  },
+  "views": [
+    { "name": "desktop", "width": 1920, "height": 1080 },
+    { "name": "handheld", "width": 1280, "height": 800 }
+  ],
+  "lighting": {
+    "day": {
+      "sky": "#b4c3d4",
+      "ground": "#4a4a44",
+      "ambientIntensity": 1.0,
+      "sun": "#fff4d6",
+      "sunIntensity": 1.0,
+      "sunFrom": { "right": 0.32, "up": 0.77, "towardCamera": 0.56 },
+      "floor": "#4b5a46"
+    },
+    "night": {
+      "sky": "#3a5280",
+      "ground": "#0a0d12",
+      "ambientIntensity": 0.5,
+      "sun": "#a9bcff",
+      "sunIntensity": 0.15,
+      "sunFrom": { "right": -0.3, "up": 0.8, "towardCamera": 0.5 },
+      "floor": "#20262a"
+    }
+  },
+  "fonts": {
+    "regular": null,
+    "condensed": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "blender-rts-structures",
+  "description": "Build RTS buildings in Blender to a written art direction: themed texture atlases, game-ready GLB export, review renders from the game camera, and a reviewer agent. Set up for Unity, configurable for other engines.",
+  "version": "0.1.0",
+  "author": {
+    "name": "John Urbank"
+  },
+  "keywords": ["blender", "rts", "unity", "gltf", "3d", "game-art"]
+}
