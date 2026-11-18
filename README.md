@@ -55,5 +55,5 @@ plugins/blender-rts-structures/
     references/                      pipeline, review, setup, and Unity notes
     scripts/                         Blender export and render, card mapping, atlas painter
     templates/                       rts-art.json, atlas_sets.py, doc templates, the Unity editor script
-    examples/                        finished art direction and set files
+    examples/                        finished art direction and set files, and demo models with review sheets
 ```
